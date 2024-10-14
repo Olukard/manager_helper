@@ -1,0 +1,240 @@
+
+
+1164590649605
+UNI-PHARMA
+UNI-PHARMA1121410957580
+
+PharmMCülKil lAboratorin S.A.
+Ferric Hydroxide Polymaltose Complex Chw. tablets 100 mg/tab
+
+PharmMCülKil lAboratorin S.A.
+Ferric Hydroxide Polymaltose Complex Chw. tablets 100 mg/tab
+
+
+
+2.3 BODY OF DATA
+
+2.3.S
+DRUG SUBSTANCE(S) (Ferric Hydroxide Polymaltose
+Complex)
+
+GENERAL INFORMATION (Ferric Hydroxide Polymaltose
+Complex/ Global Calcium Private Limited)
+
+Nomenclature
+INN: Ferric Hydroxide Polymaltose Complex
+CAS registry number: 53858-86-9
+Compendial names: Not Available
+Other names: Polymaltosate iron (III)
+Iron polymaltose
+Ferric polymaltose
+Iron (III)-hydroxide polymaltose complex
+
+Structure
+Structural Formula
+The structural formula of Ferric Hydroxide Polymaltose Complex is not determined.
+Molecular Formula
+The empirical formula of this high molecular weight complex of iron (III)-hydroxide and polymaltose can be expressed as follows:
+[Fe(OH)3 x (H2O)1,5]n x [C6H10O5)m]x
+Where:
+n number of mono-hemi-hydrated iron (III)-hydroxide complexes (iron polymerization rate)
+m polymerization rate of the anhydrous-dextrose ligand (polymaltose/polymerized- maltose complex)
+x stoichiometric factor (correlation factor between the content of iron(III)-hydroxide and of polymaltose ligand)
+
+General Properties
+Physical Description
+Ferric Hydroxide Polymaltose Complex is a brown or dark brown amorphous powder.
+Solubility
+The complex is water soluble and insoluble in ordinary organic solvents.
+Polymorphism
+Since Ferric Hydroxide Polymaltose Complex is an amorphous powder, polymorphism phenomena take not place.
+pH
+The pH of a 5% w/v aqueous solution of Iron (III) stays between 5.5 and 7.5.
+
+MANUFACTURE (Ferric Hydroxide Polymaltose Complex/ Global
+Calcium Private Limited)
+
+Manufacturer(s)
+GLOBAL CALCIUM PRIVATE LIMITED
+Name of Holder
+PHARMABELLE LIMITED
+10 Viotias str,
+7104 Aradippou, Larnaca
+CYPRUS
+Manufacturing site
+GLOBAL CALCIUM PRIVATE LIMITED
+125,126 SIPCOT Industrial Complex
+Hosur - 635126
+Tamil Nadu State
+INDIA
+Tel: 91-4344-406000
+Fax: 91-4344-276359
+
+Description of the Manufacturing Process and Process Controls
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.2.
+
+Control of Materials
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.3.
+
+Control of Critical Steps and Intermediates
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.4.
+
+Process Validation and/or Evaluation
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.5.
+
+Manufacturing Process Development
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.6.
+2.3.S.3 CHARACTERIZATION (Ferric Hydroxide Polymaltose Complex/
+Global Calcium Private Limited)
+
+Elucidation of Structure and Other Characteristics
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.3.1.
+
+Impurities
+Please refer to the Active Substance Master File of the Manufacturers, in the relevant section 2.3.S.2.3.
+
+
+CONTROL OF DRUG SUBSTANCE (Ferric Hydroxide
+Polymaltose Complex/ Global Calcium Private Limited)
+2.3.S.4.1
+a) Specifications of the drug substance /Uni-Pharma S.A. (according to the
+proposal specifications of the manufacturers)
+Tests
+Specifications
+Appearance
+Brown or dark brown, odorless powder
+Solubility
+Soluble in water. Practically insoluble in organic solvents
+Identification
+
+Combined Iron (III)
+Positive
+Polymaltose
+Positive
+Appearance of 5% Fe3+ w/v solution
+Clear and free from undissolved matter
+Loss on drying
+NMT 8.0%
+pH (sol. 5% w/v Fe3+ )
+5.5-7.5
+Assay Iron (III) - on dry basis
+26.0% - 36.0%
+Assay Polymaltose
+25.0% - 50.0%
+Chlorides (as NaCl, on dry basis)
+NMT 3.0%
+Free Iron (III) (sol. 5% w/v Fe3+ )
+NMT 0.05%
+Arsenic
+NMT 2 ppm
+Copper
+NMT 60 ppm
+Lead
+NMT 20 ppm
+Zinc
+NMT 150 ppm
+Total bacterial count
+NMT 100 CFU/g
+Moulds/Yeasts
+NMT 100 CFU/g
+Enterobacteria
+Absent on 1 g
+Escherichia coli
+Absent on 1 g
+Staphylococcus aureus
+Absent on 1 g
+Salmonella
+Absent on 1 g
+469836512700
+Absent on 1 g
+Absent on 1 gPseudomonas aeruginosa
+c) Specifications of the drug substance Global Calcium Private Limited
+Tests
+Specifications
+Appearance
+Brown or dark brown, odorless powder
+Solubility
+Soluble in water. Practically insoluble in organic solvents
+Identification
+
+Combined Iron (III)
+Positive
+Polymaltose
+Positive
+Appearance of 5% Fe3+ w/v solution
+Clear and free from undissolved matter
+Loss on drying
+NMT 8.0%
+pH (sol. 5% w/v Fe3+ )
+5.5-7.5
+Assay Iron (III) - on dry basis
+26.0% - 36.0%
+Assay Polymaltose
+25.0% - 50.0%
+Chlorides (as NaCl, on dry basis)
+NMT 3.0%
+Free Iron (III) (sol. 5% w/v Fe3+ )
+NMT 0.05%
+Arsenic
+NMT 2 ppm
+Copper
+NMT 60 ppm
+Lead
+NMT 20 ppm
+Zinc
+NMT 150 ppm
+Total bacterial count
+NMT 1000 CFU/g
+Moulds/Yeasts
+NMT 100 CFU/g
+Enterobacteria
+NMT 100 CFU/g
+Escherichia coli
+Absent on 1 g
+Staphylococcus aureus
+Absent on 1 g
+Salmonella
+Absent on 10 g
+Pseudomonas aeruginosa
+Absent on 1 g
+In addition please refer to the relevant section 2.3.S.4.1 of the ASMF.
+
+Analytical Procedure
+UNI-PHARMA S.A. performs the analytical procedures of the active ingredient based on the analytical procedures of the manufacturers. Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.4.2.
+
+Validation of Analytical Procedures
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.4.3.
+
+Batch Analysis
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.4.4.
+Control tests regarding the Active Ingredient are performed by UNI-PHARMA KLEON TSETIS PHARMACEUTICAL LABORATORIES S.A., as well.
+All test results are within the limits of the specification of the material.
+
+Justification of Specification
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.4.5.
+The specifications of Uni-Pharma S.A. are the same of the manufacturers.
+
+REFERENCE STANDARDS OR MATERIALS (Ferric Hydroxide Polymaltose Complex/ Global Calcium Private Limited)
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.5.
+
+CONTAINER CLOSURE SYSTEM (Ferric Hydroxide Polymaltose Complex/ Global Calcium Private Limited)
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.6.
+
+STABILITY (Ferric Hydroxide Polymaltose Complex/ Global
+Calcium Private Limited)
+
+2.3.S.7.1
+Stability Summary and Conclusions
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.7.1.
+
+Post-approval Stability Protocol and Stability
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.7.2.
+
+Stability Data
+Please refer to the Active Substance Master File of the Manufacturers in the relevant section 2.3.S.7.3.
+
+
+
+33191459827260
+UNI-PHARMA S.A.
+UNI-PHARMA S.A.10579109777095
